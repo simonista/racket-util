@@ -1,4 +1,4 @@
-#lang scheme
+#lang racket
 
 (require (planet schematics/schemeunit:3)
          (planet schematics/schemeunit:3/text-ui))
